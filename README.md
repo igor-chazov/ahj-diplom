@@ -1,6 +1,6 @@
 # Дипломное задание к курсу «Продвинутый JavaScript в браузере».
 
-[[Github Pages](https://igor-chazov.github.io/ahj-diplom)]
+[![Build status](https://ci.appveyor.com/api/projects/status/tw36hed5eqfmheck?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-diplom) [[Github Pages](https://igor-chazov.github.io/ahj-diplom)]
 
 ---
 
@@ -188,6 +188,6 @@
 
 Web-приложение «Медиа Органайзер» опубликовано на [[Github Pages](https://igor-chazov.github.io/ahj-diplom)]
 
-Серверная часть (бэкенд) на сервисе [[Heroku](https://ahj-diplom-backend.herokuapp.com/)]
+Серверная часть (бэкенд) на сервисе [[Heroku](https://ahj-diplom-backend1.herokuapp.com/)]
 
 ---

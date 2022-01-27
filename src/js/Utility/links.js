@@ -8,7 +8,7 @@ if (url.hostname === 'localhost') {
 }
 
 if (url.hostname === 'igor-chazov.github.io') {
-  url.hostname = 'ahj-diplom-backend.herokuapp.com';
+  url.hostname = 'ahj-diplom-backend1.herokuapp.com';
   url.protocol = 'https';
 }
 
